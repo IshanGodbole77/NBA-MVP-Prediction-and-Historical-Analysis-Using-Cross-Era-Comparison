@@ -1,0 +1,7 @@
+Does not contain Per 36 minutes and Per 100 possessions features
+
+Each season taken as testing dataset separately and model trained on all other seasons
+
+Deleted Derrick Rose row
+
+Dropped Pos_No

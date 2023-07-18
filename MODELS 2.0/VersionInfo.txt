@@ -1,0 +1,3 @@
+Does not contain Per 36 minutes and Per 100 possessions features
+
+Uses testing datasets 2014-15 and 2019-20
